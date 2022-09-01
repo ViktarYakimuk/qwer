@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\bin\Debug\net6.0\les005.exe
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\bin\Debug\net6.0\les005.deps.json
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\bin\Debug\net6.0\les005.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\bin\Debug\net6.0\les005.dll
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\bin\Debug\net6.0\les005.pdb
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.dll
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\refint\les005.dll
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.pdb
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\les005.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les005\obj\Debug\net6.0\ref\les005.dll
