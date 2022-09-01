@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\bin\Debug\net6.0\les002_hello.exe
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\bin\Debug\net6.0\les002_hello.deps.json
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\bin\Debug\net6.0\les002_hello.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\bin\Debug\net6.0\les002_hello.dll
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\bin\Debug\net6.0\les002_hello.pdb
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.dll
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\refint\les002_hello.dll
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.pdb
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\les002_hello.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\qwer\Exam\les002_hello\obj\Debug\net6.0\ref\les002_hello.dll
